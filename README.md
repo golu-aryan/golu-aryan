@@ -34,14 +34,14 @@
 
 🔗 **Following:** 2
 
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-<img src="https://streak-stats.demolab.com?user=golu-aryan&theme=default&hide_border=true" alt="golu-aryan's GitHub Stats" />
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=golu-aryan&theme=default&hide_border=true)
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golu-aryan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=golu-aryan&layout=compact&theme=dark)
 
 ## Recent Activity
 
