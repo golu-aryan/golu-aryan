@@ -1,9 +1,9 @@
 ## 
-
-# Hello! I'm Aryan
-
-![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&width=600&lines=Fullstack+Web+Developer;3%2B+Years+Experience;Open+to+Opportunities;Passionate+about+Building+Scalable+Web+Solutions;Lifelong+Learner;Always+Exploring+New+Tech)
-
+<div align="center">
+  <img width="190" src="https://github.com/user-attachments/assets/f9e2d7c9-5d1d-4bf6-bd6c-80d3532ee076" style="display: block; margin-bottom: 0px;" />
+<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;3%2B+Years+Experience;Open+to+Opportunities;Passionate+about+Building+Scalable+Website;Lifelong+Learner;Always+Exploring+New+Tech" />
+</div>
 
 ## About Me
 
@@ -35,7 +35,7 @@
 🔗 **Following:** 2
 
 <!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- GitHub Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=golu-aryan&theme=dark&hide_border=false&include_all_contributions=true)<br/>
@@ -73,7 +73,7 @@ Currently, I don't have any blog posts, but I'm planning to share my journey in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 <a href="https://github.com/golu-aryan">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="40" height="40" />
 </a>
 <a href="mailto:kumararyan9852@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
