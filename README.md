@@ -36,6 +36,17 @@
 
 <!-- GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!-- GitHub Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=golu-aryan&theme=dark&hide_border=false&include_all_contributions=true)<br/>
