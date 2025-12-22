@@ -38,7 +38,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
 <!-- GitHub Streak Stats -->
-![](https://nirzak-streak-stats.vercel.app/?user=golu-aryan&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=golu-aryan&theme=dark&hide_border=false&include_all_contributions=true)<br/>
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=golu-aryan&layout=compact&theme=dark)
