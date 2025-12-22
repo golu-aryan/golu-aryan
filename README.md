@@ -17,18 +17,17 @@
 
 ## Skills & Technologies
 
-html,css,cpp,git,github,docker,nodejs,spring,js,bootstrap,anaconda,react,aws,figma,hibernate,vscode,pycharm,maven,windows,mysql,py,githubactions,c,linkedin,gmail,idea
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,git,github,docker,nodejs,spring,js,bootstrap,anaconda,react,aws,figma,hibernate,vscode,pycharm,maven,windows,mysql,py,githubactions,c,linkedin,gmail,idea&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [**Sigma-Web-Dev**](https://github.com/golu-aryan/Sigma-Web-Dev): Sigma Web Development - ⭐ 1, Language: HTML
-- [**JAVA**](https://github.com/golu-aryan/JAVA): All Java programs from basic to advanced - ⭐ 1, Language: Java
-- [**MediTrack**](https://github.com/golu-aryan/MediTrack): Smart HealthCare Appointment & Records System - ⭐ 1, Language: Java
-- [**Cpp-with-DSA**](https://github.com/golu-aryan/Cpp-with-DSA): Data Structure and Algorithms with C++ - ⭐ 1, Language: C++
-- [**Front_end-Projects**](https://github.com/golu-aryan/Front_end-Projects): All my front-end projects - ⭐ 1, Language: CSS
+[![**Sigma-Web-Dev**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Sigma-Web-Dev&theme=dark)](https://github.com/golu-aryan/Sigma-Web-Dev)
+[![**JAVA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=JAVA&theme=dark)](https://github.com/golu-aryan/JAVA)
+[![**MediTrack**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=MediTrack&theme=dark)](https://github.com/golu-aryan/MediTrack)
+[![**Cpp-with-DSA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Cpp-with-DSA&theme=dark)](https://github.com/golu-aryan/Cpp-with-DSA)
+[![**Front_end-Projects**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Front_end-Projects&theme=dark)](https://github.com/golu-aryan/Front_end-Projects)
 
 ## GitHub Stats
-
 ✨ **Public Repositories:** 5
 
 👥 **Followers:** 1
@@ -42,6 +41,7 @@ html,css,cpp,git,github,docker,nodejs,spring,js,bootstrap,anaconda,react,aws,fig
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golu-aryan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -140,4 +140,3 @@ Currently, I don't have any blog posts, but I'm planning to share my journey in 
   \__, |\___/|_|\__,_|      \__,_|_|   \__, |\__,_|_| |_|
   |___/                                |___/             
 ```
-
