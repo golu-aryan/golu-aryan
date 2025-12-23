@@ -21,8 +21,8 @@
 
 ## Repositories
 
-<!-- RECENT_REPOS_START -->
-<!-- RECENT_REPOS_END -->
+<!-- RECENT_REPOS:START -->
+<!-- RECENT_REPOS:END -->
 
 [![**Sigma-Web-Dev**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Sigma-Web-Dev&theme=dark)](https://github.com/golu-aryan/Sigma-Web-Dev)
 [![**JAVA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=JAVA&theme=dark)](https://github.com/golu-aryan/JAVA)
