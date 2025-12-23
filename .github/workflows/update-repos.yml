@@ -1,0 +1,19 @@
+name: Update README Repos
+on:
+  schedule:
+    - cron: '0 0 * * *' # Har raat update hoga
+  workflow_dispatch: # Manual run karne ke liye
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # README edit karne ke liye permission
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "RECENT_REPOS"
+          feed_list: "https://github.com/golu-aryan.atom"
+          max_post_count: 5
+          template: "- [$title]($url): $description ⭐ $stars | Language: $language"
