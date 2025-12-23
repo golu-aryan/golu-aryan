@@ -21,7 +21,7 @@
 
 ## Repositories
 
-<!-- RECENT_REPOS:START --><!-- RECENT_REPOS:END -->
+<!-- RECENT_REPOS:START -->[![golu-aryan pushed golu-aryan](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=golu-aryan pushed golu-aryan&theme=dark)](https://github.com/golu-aryan/golu-aryan/compare/b1c4c02382...38587193f5)[![golu-aryan pushed golu-aryan](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=golu-aryan pushed golu-aryan&theme=dark)](https://github.com/golu-aryan/golu-aryan/compare/d74484047e...b1c4c02382)[![golu-aryan pushed golu-aryan](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=golu-aryan pushed golu-aryan&theme=dark)](https://github.com/golu-aryan/golu-aryan/compare/865d44979f...5b5dfa64f6)[![golu-aryan pushed golu-aryan](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=golu-aryan pushed golu-aryan&theme=dark)](https://github.com/golu-aryan/golu-aryan/compare/4798e0bf52...865d44979f)[![golu-aryan pushed golu-aryan](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=golu-aryan pushed golu-aryan&theme=dark)](https://github.com/golu-aryan/golu-aryan/compare/2c2805db82...0fc62a15f7)<!-- RECENT_REPOS:END -->
 
 [![**Sigma-Web-Dev**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Sigma-Web-Dev&theme=dark)](https://github.com/golu-aryan/Sigma-Web-Dev)
 [![**JAVA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=JAVA&theme=dark)](https://github.com/golu-aryan/JAVA)
