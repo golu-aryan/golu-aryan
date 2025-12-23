@@ -19,7 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,git,github,docker,nodejs,spring,js,bootstrap,anaconda,react,aws,figma,hibernate,vscode,pycharm,maven,windows,mysql,py,githubactions,c,linkedin,gmail,idea&perline=8)](https://skillicons.dev)
 
-## Top Projects
+## Repositories
 
 [![**Sigma-Web-Dev**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Sigma-Web-Dev&theme=dark)](https://github.com/golu-aryan/Sigma-Web-Dev)
 [![**JAVA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=JAVA&theme=dark)](https://github.com/golu-aryan/JAVA)
