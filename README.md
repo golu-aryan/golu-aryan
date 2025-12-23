@@ -21,6 +21,9 @@
 
 ## Repositories
 
+<!-- RECENT_REPOS_START -->
+<!-- RECENT_REPOS_END -->
+
 [![**Sigma-Web-Dev**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Sigma-Web-Dev&theme=dark)](https://github.com/golu-aryan/Sigma-Web-Dev)
 [![**JAVA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=JAVA&theme=dark)](https://github.com/golu-aryan/JAVA)
 [![**MediTrack**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=MediTrack&theme=dark)](https://github.com/golu-aryan/MediTrack)
