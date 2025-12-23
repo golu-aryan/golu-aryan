@@ -28,6 +28,7 @@
 [![**MediTrack**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=MediTrack&theme=dark)](https://github.com/golu-aryan/MediTrack)
 [![**Cpp-with-DSA**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Cpp-with-DSA&theme=dark)](https://github.com/golu-aryan/Cpp-with-DSA)
 [![**Front_end-Projects**](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Front_end-Projects&theme=dark)](https://github.com/golu-aryan/Front_end-Projects)
+[![Intern_ChipiTechnologies](https://github-readme-stats.vercel.app/api/pin/?username=golu-aryan&repo=Intern_ChipiTechnologies&theme=dark)](https://github.com/golu-aryan/Intern_ChipiTechnologies)
 
 ## GitHub Stats
 ✨ **Public Repositories:** 5
