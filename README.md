@@ -35,7 +35,7 @@
 🔗 **Following:** 2
 
 <!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=golu-aryan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800)
 
 <!-- GitHub Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=golu-aryan&theme=dark&hide_border=false&include_all_contributions=true)<br/>
